@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: zfr-nathonfowlie
+Version: 0.0.1
+Summary: Python utility to automate test case management using Zephyr Scale for Jira.
+Home-page: https://github.com/nathonfowlie/python-zfr
+Author: Nathon Fowlie
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/nathonfowlie/python-zfr/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# python-zfr
+
+Python utility to support test case automation using Zephyr Scale for Jira.
+
+

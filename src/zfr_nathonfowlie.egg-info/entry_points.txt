@@ -1,0 +1,4 @@
+[console_scripts]
+zfr-folder = zfr.cli.folder:cli
+zfr-plan = zfr.cli.plan:cli
+

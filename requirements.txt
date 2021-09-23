@@ -1,0 +1,8 @@
+build
+requests
+requests_toolbelt
+twine
+flake8
+flake8-docstrings
+mypy
+types-requests
